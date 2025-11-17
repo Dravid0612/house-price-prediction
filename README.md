@@ -71,8 +71,6 @@ cd app
 python predict_app.py
 
 
-The app will open at:
-http://127.0.0.1:5000/
 
 🧠 Model Training
 
@@ -80,6 +78,7 @@ To retrain the model, run:
 
 python model/train_model.py
 
+this will open an website:Local URL: http://localhost:8501
 
 This will:
 
